@@ -1,0 +1,9 @@
+.nav-container {
+  background-color: #e8e8e8;
+  background-size: cover;
+}
+.logo {
+  width: 120px;
+  padding: 10px;
+  margin-left: 50px;
+}
